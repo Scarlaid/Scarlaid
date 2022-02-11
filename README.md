@@ -1,4 +1,4 @@
-![bruh](https://user-images.githubusercontent.com/90851437/153548709-c4a2087a-ee27-4850-a78a-9a36ab714cab.gif)
+![kekw](https://user-images.githubusercontent.com/90851437/153554313-91d20e1b-c453-47fe-8b4a-349fd4913bac.gif)
 ###
 ###
 # Hi, hey, ho? Welcome to my profile👋
