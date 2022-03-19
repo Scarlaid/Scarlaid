@@ -1,4 +1,4 @@
-![kekw](https://user-images.githubusercontent.com/90851437/153554313-91d20e1b-c453-47fe-8b4a-349fd4913bac.gif)
+![__perlica_arknights_and_1_more__4acb098189894ed6ee7b5db3f1450dec](https://user-images.githubusercontent.com/90851437/159106416-6713281c-57c7-4cc3-b2da-f8d144bad98d.jpg)
 ###
 ###
 # Hi, hey, ho? Welcome to my profile👋
