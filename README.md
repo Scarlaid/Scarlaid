@@ -11,10 +11,10 @@ ____________
 <details><summary>My PC Specs</summary>
 <p>
 
-- Intel(R) Xeon(R) CPU E3-1220 v3 @ 3.10GHz, 3101 Mhz, 4 Core(s), 4 Logical Processor(s)
+- Intel(R) Xeon(R) CPU E3-1241 v3 @ 3.50GHz, 3101 Mhz, 4 Core(s), 4 Logical Processor(s)
 - KINGSTON (KVR16N11S8/4) 8GB (2x4GB) DDR3 1600MHz
 - Vaseky V800 240GB SATA3 | Western Digital WD20PURX-64P6ZY0 - 2TB 5.4K RPM 64MB Cache SATA 3.5"
-- NVIDIA GeForce GTX 750ti OC 2GB DDR5 (Elpida)
+- NVIDIA GeForce GTX 960 OC 2GB DDR5 (Samsung)
 - A sleeper PC case with a 500W power supply that I don't even know the name
 
 </p>
