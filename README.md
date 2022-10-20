@@ -8,14 +8,22 @@ I'm Scarlaid, you can call/know me by the name Vinh, or Vinh Cao, I suppose...
 ____________
 
 ### Some info about me 👀🔪
-<details><summary>My PC Specs</summary>
+<details><summary>Current PCs</summary>
 <p>
 
-- Intel(R) Xeon(R) CPU E3-1241 v3 @ 3.50GHz, 3101 Mhz, 4 Core(s), 4 Logical Processor(s)
+🖥 My Desktop
+- Intel® Xeon® CPU E3-1241 v3 @ 3.50GHz, 4 Core(s), 4 Logical Processor(s)
 - KINGSTON (KVR16N11S8/4) 8GB (2x4GB) DDR3 1600MHz
 - Vaseky V800 240GB SATA3 | Western Digital WD20PURX-64P6ZY0 - 2TB 5.4K RPM 64MB Cache SATA 3.5"
 - NVIDIA GeForce GTX 960 OC 2GB DDR5 (Samsung)
-- A sleeper PC case with a 500W power supply that I don't even know the name
+- A gaming PC case with a 500W power supply that I forgor the name 💀
+
+💻 My Laptop
+- AMD Ryzen™ 7 6800H - Radeon 680M @ 3.2Ghz (Up to 4.7Ghz), 8 Core(s), 16 Logical Processor(s)
+- MICRON 8GB DDR5 4800Mhz SO-DIMM (1/2 RAM slot)
+- SAMSUNG 512GB M.2 NVMe™ PCIe® Gen4 SSD 
+- NVIDIA®GeForce RTX™3050 Laptop GPU 4GB GDDR6
+- An external cooling pad that has no branding
 
 </p>
 </details>
