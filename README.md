@@ -34,7 +34,7 @@ ____________
   - **Notable games:** Terraria, Minecraft, Starbound, A Hat In Time
 - `🕹`⠀I'm currently a Co-Owner of [ThiccSMP](https://thiccsmp.qtpc.tech), associating with [QuanTrieuPCYT](https://github.com/QuanTrieuPCYT)
 - `⭐`⠀I live in Hanoi, Vietnam
-- `🏫`⠀Twenty-one years old, as a **Sophomore** in [VNU - International School](http://www.is.vnu.edu.vn/en/)
+- `🏫`⠀Twenty-one years old, as a **Junior** in [VNU - International School](http://www.is.vnu.edu.vn/en/)
 - `💻` Amateur in Javascript, decent in **Optimizing, mainly [Minecraft](https://github.com/Scarlaid/P-QoL)**
 
 </p>
