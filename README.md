@@ -14,8 +14,8 @@ ____________
 🖥 My Small Workstation
 - Intel® Xeon® CPU E3-1241 v3 @ 3.50GHz, 4 Core(s), 4 Logical Processor(s)
 - KINGSTON (KVR16N11S8/4) 8GB (2x4GB) DDR3 1600MHz
-- Vaseky V800 240GB SATA3 | Western Digital WD20PURX-64P6ZY0 - 2TB 5.4K RPM 64MB Cache SATA 3.5"
-+ SAMSUNG HD161GJ 160GB 32MB Cache SATA 3.5"
+- Vaseky V800 240GB SATA3 | Western Digital WD20PURX-64P6ZY0 - 2TB 5.4K RPM 64MB Cache SATA 3.5" 
+   - SAMSUNG HD161GJ 160GB 32MB Cache SATA 3.5"
 - NVIDIA GeForce GTX 1050Ti OC 4GB GDDR5 (Samsung)
 - KENOO Mini Tower Case
 
