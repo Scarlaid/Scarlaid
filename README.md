@@ -46,7 +46,7 @@ ____________
 <details><summary>Social Media</summary>
 <p>
 
-- [Discord](https://discord.com/users/424764242965692439)
+- [Discord](https://discord.gg/sJ9NQprExv)
 - [Facebook](https://facebook.com/vinhkothap)
 - [Youtube](https://youtube.com/c/Scarlaid)
 - [Others](https://neuro2.carrd.co/)
