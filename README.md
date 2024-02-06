@@ -69,4 +69,4 @@ ____________
 
 ___________
 
-### Thanks for reading <3
+### Thanks for reading, consider joining the [discord](https://discord.gg/sJ9NQprExv) <3
