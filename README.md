@@ -62,7 +62,7 @@ ____________
 
 - [Discord](https://discord.gg/sJ9NQprExv)
 - [Facebook](https://facebook.com/vinhkothap)
-- [Youtube](https://youtube.com/c/Scarlaid)
+- [Youtube](https://www.youtube.com/channel/UCgyTPibT46MVZq4bY5vE9PQ)
 - [Others](https://neuro2.carrd.co/)
 </p>
 </details>
