@@ -1,5 +1,4 @@
-![__perlica_arknights_and_1_more__4acb098189894ed6ee7b5db3f1450dec](https://user-images.githubusercontent.com/90851437/159106416-6713281c-57c7-4cc3-b2da-f8d144bad98d.jpg)
-###
+![Untitled](https://github.com/Scarlaid/Scarlaid/assets/90851437/c089fe1a-3879-47d3-9e1b-29ab7f4f62e3)
 ###
 # Hi, hey, ho? Welcome to my profile👋
 Welcome, again, to the most casual profile you will ever see on this modding community. Congrats on spending like 1-2 minutes to read this!
