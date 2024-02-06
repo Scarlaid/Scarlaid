@@ -1,8 +1,7 @@
 ![Untitled](https://github.com/Scarlaid/Scarlaid/assets/90851437/c089fe1a-3879-47d3-9e1b-29ab7f4f62e3)
 ###
-# Hi, hey, ho? Welcome to my profile👋
-Welcome, again, to the most casual profile you will ever see on this modding community. Congrats on spending like 1-2 minutes to read this!
-I'm Scarlaid, you can call/know me by the name Vinh, or Vinh Cao, I suppose...
+<h3 align="center">Welcome to my profile! Have a look around.</h3>
+<h5 align="center">Nothing special, just a guy want to be decent 🤙</h5>
 
 ____________
 
@@ -10,7 +9,7 @@ ____________
 <details><summary>Current PCs</summary>
 <p>
 
-🖥 My Small Workstation (
+🖥 My Small Workstation 
 - Intel® Xeon® CPU E3-1241 v3 @ 3.50GHz, 4 Core(s), 4 Logical Processor(s)
 - KINGSTON (KVR16N11S8/4) 8GB (2x4GB) DDR3 1600MHz
 - Vaseky V800 240GB SATA3 
