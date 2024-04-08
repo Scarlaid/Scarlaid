@@ -24,20 +24,23 @@ ____________
 - SAMSUNG 512GB M.2 NVMe™ PCIe® Gen4 + SAMSUNG 1TB M.2 MVMe NVMe™ PCIe® Gen4
 - Kingston NV2 1TB M.2 PCIe Gen4 x4 NVMe SNV2S/1000G
 - NVIDIA®GeForce RTX™3050 Laptop GPU 4GB VRAM GDDR6
-- A $3 laptop stand
+- IETS GT500 Cooling Pad (5000RPM)
 
 🎧 Gears
-- HyperX Stinger Core 7.1 (Blue)
+- HyperX Stinger Core 7.1 (Blue) with Ikko Magic-Arc
 - ZIFRIEND ZA68 | MZ Z1 Switches +  Coral Sea XDA Keycaps | Lubed + Foamed
-- Mchose A5 Pro 4k Wireless
-- HUION H430P Drawing Tablet 
+- Mchose A5 Pro + 4k Wireless
+- HUION H430P Drawing Tablet at 1khz
 - TWS Moondrop Space Travel + Leather case
+- IEM Moondrop LAN with Moondrop Dawn Pro Dual-DAC
 - Logitech M220 Silent Wireless
-- Motospeed K2 2-switch Keypad
+- Motospeed K2 2-switch osu!Keypad
 
 📱 Phones
 - Iphone 6 Plus 16GB (Gold)
-- VSMART Live 4 4/64GB (Teal)
+- Iphone 6S 64GB (Gold)
+- ~~VSMART Live 4 4/64GB (Teal)~~ (Sold)
+- Samsung S20FE LTE 8/256GB (America variant)
 
 </p>
 </details>
