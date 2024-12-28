@@ -37,11 +37,11 @@ ____________
 🎧 Gears
 - HyperX Earbuds II with Ikko Magic-Arc
 - Everglide AE68 Rapid Trigger /w RaptorHE, Gateron Jade & KS-20U
+- Mchoses A5 Pro 4K
 - Logitech GPro Wireless Superlight v1 | Huano Transparent BlueS/PinkD
 - Wacom One | CTL-472 | Unterp'd
 - Galaxy Buds 2 Pro + Buds FE
-- Moondrop LAN with Moondrop Dawn Pro Dual-DAC 4.4mm
-- Logitech G304 Huanno Silent + 54g Mod 
+- Moondrop LAN with Moondrop Dawn Pro Dual-DAC 4.4mm 
 - SayoDevice O3C Rapid Trigger
 - IETS GT500 Cooling Pad (5000RPM)
 
