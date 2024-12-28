@@ -26,28 +26,20 @@ ____________
 - WD Black SN570 1TB M.2 NVMe™ PCIe® Gen4x4
 - NVIDIA®GeForce RTX™4060 Laptop GPU 8GB VRAM GDDR6
 
-💻 My Laptop (OLD)
-- ASUS TUF Gaming A15 FA507RC | Jaeger Gray
-- AMD Ryzen™ 7 6800H - Radeon 680M @ 3.2Ghz (Up to 4.7Ghz), 8 Core(s), 16 Logical Processor(s)
-- MICRON 32GB DDR5 4800Mhz SO-DIMM (16x2)
-- SAMSUNG 512GB M.2 NVMe™ PCIe® Gen4 + SAMSUNG 1TB M.2 MVMe NVMe™ PCIe® Gen4
-- Kingston NV2 1TB M.2 PCIe Gen4 x4 NVMe SNV2S/1000G
-- NVIDIA®GeForce RTX™3050 Laptop GPU 4GB VRAM GDDR6
-
 🎧 Gears
 - HyperX Earbuds II with Ikko Magic-Arc
 - Everglide AE68 Rapid Trigger /w RaptorHE, Gateron Jade & KS-20U
-- Mchoses A5 Pro 4K
-- Logitech GPro Wireless Superlight v1 | Huano Transparent BlueS/PinkD
+- SayoDevice O3C Rapid Trigger
+- Mchose A5 Pro 4K
+- Logitech G-Pro X Wireless Superlight v1 | Huano Transparent BlueS/PinkD
 - Wacom One | CTL-472 | Unterp'd
 - Galaxy Buds 2 Pro + Buds FE
-- Moondrop LAN with Moondrop Dawn Pro Dual-DAC 4.4mm 
-- SayoDevice O3C Rapid Trigger
+- Moondrop LAN | Moondrop Dawn Pro Dual-DAC | 4.4mm 
 - IETS GT500 Cooling Pad (5000RPM)
 
 📱 Phones
-- Iphone 6 Plus 16GB (Gold)
-- Iphone 6S 64GB (Gold)
+- ~~Iphone 6 Plus 16GB (Gold)~~
+- ~~Iphone 6S 64GB (Gold)~~
 - ~~VSMART Live 4 4/64GB (Teal)~~ (Sold)
 - Samsung J5 Prime - Modded
 - Samsung S20FE LTE 8/256GB (American variant)
