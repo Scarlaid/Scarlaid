@@ -27,14 +27,14 @@ ____________
 - NVIDIA®GeForce RTX™4060 Laptop GPU 8GB VRAM GDDR6
 
 🎧 Gears
-- HyperX Earbuds II with Ikko Magic-Arc
-- Everglide AE68 Rapid Trigger /w RaptorHE, Gateron Jade & KS-20U
+- ATK Mercury M1 Wireless
+- ATK Edge60 Ultimate
 - SayoDevice O3C Rapid Trigger
-- Mchose A5 Pro 4K
+- VXE Mad R Major 8k
 - Logitech G-Pro X Wireless Superlight v1 | Huano Transparent BlueS/PinkD
 - Wacom One | CTL-472 | Unterp'd
 - Galaxy Buds 2 Pro + Buds FE
-- Moondrop LAN | Moondrop Dawn Pro Dual-DAC | 4.4mm 
+- QKZ x HBB & KZ ZVX with Jcally JM12 x2 | 0.7ms latency mod
 - IETS GT500 Cooling Pad (5000RPM)
 
 📱 Phones
