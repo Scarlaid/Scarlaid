@@ -27,22 +27,19 @@ ____________
 - NVIDIA®GeForce RTX™4060 Laptop GPU 8GB VRAM GDDR6
 
 🎧 Gears
-- ATK Mercury M1 Wireless
 - ATK Edge60 Ultimate
-- SayoDevice O3C Rapid Trigger
-- VXE Mad R Major 8k
-- Logitech G-Pro X Wireless Superlight v1 | Huano Transparent BlueS/PinkD
-- Wacom One | CTL-472 | Unterp'd
+- ATK F1 Ultimate V2 8K
+- SayoDevice O3Cv1 Rapid Trigger
+- Wacom CTH-480 | Unterp'd
 - Galaxy Buds 2 Pro + Buds FE
-- QKZ x HBB & KZ ZVX with Jcally JM12 x2 | 0.7ms latency mod
+- SayoDevice K64H3v1 + Duhuk Herz Pink
+- Truthear Hexa x Truthear Shio
+- Truthear Hola x Hiby R3 Pro Saber
 - IETS GT500 Cooling Pad (5000RPM)
 
 📱 Phones
-- ~~Iphone 6 Plus 16GB (Gold)~~
-- ~~Iphone 6S 64GB (Gold)~~
-- ~~VSMART Live 4 4/64GB (Teal)~~ (Sold)
-- Samsung J5 Prime - Modded
-- Samsung S20FE LTE 8/256GB (American variant)
+- Samsung A20S - Modded
+- Samsung S20FE 4G 8/256GB (American variant)
 
 </p>
 </details>
